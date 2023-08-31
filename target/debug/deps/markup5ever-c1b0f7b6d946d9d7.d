@@ -1,0 +1,15 @@
+/Users/dyear/pentest/tools/getapi/target/debug/deps/markup5ever-c1b0f7b6d946d9d7.rmeta: /Users/dyear/.cargo/registry/src/index.crates.io-6f17d22bba15001f/markup5ever-0.10.1/lib.rs /Users/dyear/.cargo/registry/src/index.crates.io-6f17d22bba15001f/markup5ever-0.10.1/data/mod.rs /Users/dyear/.cargo/registry/src/index.crates.io-6f17d22bba15001f/markup5ever-0.10.1/interface/mod.rs /Users/dyear/.cargo/registry/src/index.crates.io-6f17d22bba15001f/markup5ever-0.10.1/interface/tree_builder.rs /Users/dyear/.cargo/registry/src/index.crates.io-6f17d22bba15001f/markup5ever-0.10.1/serialize.rs /Users/dyear/.cargo/registry/src/index.crates.io-6f17d22bba15001f/markup5ever-0.10.1/util/buffer_queue.rs /Users/dyear/.cargo/registry/src/index.crates.io-6f17d22bba15001f/markup5ever-0.10.1/util/smallcharset.rs /Users/dyear/pentest/tools/getapi/target/debug/build/markup5ever-f15e928315ba5835/out/generated.rs /Users/dyear/pentest/tools/getapi/target/debug/build/markup5ever-f15e928315ba5835/out/named_entities.rs
+
+/Users/dyear/pentest/tools/getapi/target/debug/deps/markup5ever-c1b0f7b6d946d9d7.d: /Users/dyear/.cargo/registry/src/index.crates.io-6f17d22bba15001f/markup5ever-0.10.1/lib.rs /Users/dyear/.cargo/registry/src/index.crates.io-6f17d22bba15001f/markup5ever-0.10.1/data/mod.rs /Users/dyear/.cargo/registry/src/index.crates.io-6f17d22bba15001f/markup5ever-0.10.1/interface/mod.rs /Users/dyear/.cargo/registry/src/index.crates.io-6f17d22bba15001f/markup5ever-0.10.1/interface/tree_builder.rs /Users/dyear/.cargo/registry/src/index.crates.io-6f17d22bba15001f/markup5ever-0.10.1/serialize.rs /Users/dyear/.cargo/registry/src/index.crates.io-6f17d22bba15001f/markup5ever-0.10.1/util/buffer_queue.rs /Users/dyear/.cargo/registry/src/index.crates.io-6f17d22bba15001f/markup5ever-0.10.1/util/smallcharset.rs /Users/dyear/pentest/tools/getapi/target/debug/build/markup5ever-f15e928315ba5835/out/generated.rs /Users/dyear/pentest/tools/getapi/target/debug/build/markup5ever-f15e928315ba5835/out/named_entities.rs
+
+/Users/dyear/.cargo/registry/src/index.crates.io-6f17d22bba15001f/markup5ever-0.10.1/lib.rs:
+/Users/dyear/.cargo/registry/src/index.crates.io-6f17d22bba15001f/markup5ever-0.10.1/data/mod.rs:
+/Users/dyear/.cargo/registry/src/index.crates.io-6f17d22bba15001f/markup5ever-0.10.1/interface/mod.rs:
+/Users/dyear/.cargo/registry/src/index.crates.io-6f17d22bba15001f/markup5ever-0.10.1/interface/tree_builder.rs:
+/Users/dyear/.cargo/registry/src/index.crates.io-6f17d22bba15001f/markup5ever-0.10.1/serialize.rs:
+/Users/dyear/.cargo/registry/src/index.crates.io-6f17d22bba15001f/markup5ever-0.10.1/util/buffer_queue.rs:
+/Users/dyear/.cargo/registry/src/index.crates.io-6f17d22bba15001f/markup5ever-0.10.1/util/smallcharset.rs:
+/Users/dyear/pentest/tools/getapi/target/debug/build/markup5ever-f15e928315ba5835/out/generated.rs:
+/Users/dyear/pentest/tools/getapi/target/debug/build/markup5ever-f15e928315ba5835/out/named_entities.rs:
+
+# env-dep:OUT_DIR=/Users/dyear/pentest/tools/getapi/target/debug/build/markup5ever-f15e928315ba5835/out

@@ -1,0 +1,7 @@
+\$\.(get|post|ajax)\s*\(\s*["']([^"']+)["']
+fetch\s*\(\s*["']([^"']+)["']
+axios\.(get|post|put|delete|patch)\s*\(\s*["']([^"']+)["']
+open\s*\(\s*["'](GET|POST|PUT|DELETE|PATCH)["']\s*,\s*["']([^"']+)["']
+this\.\$http\.(get|post|put|delete|patch)\s*\(\s*["']([^"']+)["']
+this\.props\.dispatch\s*\(\s*["']([^"']+)["']
+

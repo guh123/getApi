@@ -1,0 +1,6 @@
+/Users/dyear/pentest/tools/getapi/target/debug/deps/native_tls-0940f8be3584423d.rmeta: /Users/dyear/.cargo/registry/src/index.crates.io-6f17d22bba15001f/native-tls-0.2.11/src/lib.rs /Users/dyear/.cargo/registry/src/index.crates.io-6f17d22bba15001f/native-tls-0.2.11/src/imp/security_framework.rs
+
+/Users/dyear/pentest/tools/getapi/target/debug/deps/native_tls-0940f8be3584423d.d: /Users/dyear/.cargo/registry/src/index.crates.io-6f17d22bba15001f/native-tls-0.2.11/src/lib.rs /Users/dyear/.cargo/registry/src/index.crates.io-6f17d22bba15001f/native-tls-0.2.11/src/imp/security_framework.rs
+
+/Users/dyear/.cargo/registry/src/index.crates.io-6f17d22bba15001f/native-tls-0.2.11/src/lib.rs:
+/Users/dyear/.cargo/registry/src/index.crates.io-6f17d22bba15001f/native-tls-0.2.11/src/imp/security_framework.rs:
